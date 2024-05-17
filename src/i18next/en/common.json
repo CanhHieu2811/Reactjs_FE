@@ -1,0 +1,27 @@
+{
+  "hello": "hello",
+  "nav": {
+    "dashboard": "Trang chủ",
+    "nguoi_dung": "Người dùng",
+    "tram": "Trạm",
+    "xe": "Xe đạp",
+    "thong_tin_thue_xe": "Thông tin thuê xe",
+    "thanh_toan": "Thanh toán",
+    "banner": "Banner",
+    "web": "Website",
+    "mobile": "Mobile",
+    "xe_gia_thue": "Xe - giá thuê xe"
+  },
+  "breadcrumbs": {
+    "dashboard": "Trang chủ",
+    "nguoi-dung": "Người dùng",
+    "tram": "Trạm",
+    "xe": "Xe đạp",
+    "thong-tin-thue-xe": "Thông tin thuê xe",
+    "thanh-toan": "Thanh toán",
+    "banner": "Banner",
+    "web": "Website",
+    "mobile": "Mobile",
+    "xe-gia-thue": "Xe - giá thuê xe"
+  }
+}
